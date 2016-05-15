@@ -1,0 +1,28 @@
+D:\VS2013\WebOfSciSearcher\WebSearcher\bin\Debug\WebSearcher.exe.config
+D:\VS2013\WebOfSciSearcher\WebSearcher\bin\Debug\WebSearcher.exe
+D:\VS2013\WebOfSciSearcher\WebSearcher\bin\Debug\WebSearcher.pdb
+D:\VS2013\WebOfSciSearcher\WebSearcher\obj\Debug\WebSearcher.csprojResolveAssemblyReference.cache
+D:\VS2013\WebOfSciSearcher\WebSearcher\obj\Debug\WebSearcher.exe
+D:\VS2013\WebOfSciSearcher\WebSearcher\obj\Debug\WebSearcher.pdb
+E:\srcs\Visual Studio 2013\Projects\WebOfSciSearcher\WebOfSciSearcher\WebSearcher\bin\Debug\WebSearcher.pdb
+E:\srcs\Visual Studio 2013\Projects\WebOfSciSearcher\WebOfSciSearcher\WebSearcher\obj\Debug\WebSearcher.pdb
+E:\srcs\Visual Studio 2013\Projects\WebOfSciSearcher\WebOfSciSearcher\WebSearcher\bin\Debug\WebSearcher.dll.config
+E:\srcs\Visual Studio 2013\Projects\WebOfSciSearcher\WebOfSciSearcher\WebSearcher\bin\Debug\WebSearcher.dll
+E:\srcs\Visual Studio 2013\Projects\WebOfSciSearcher\WebOfSciSearcher\WebSearcher\obj\Debug\WebSearcher.dll
+C:\Users\Administrator\Desktop\WebOfSciSearcher\WebSearcher\bin\Debug\WebSearcher.dll.config
+C:\Users\Administrator\Desktop\WebOfSciSearcher\WebSearcher\bin\Debug\WebSearcher.dll
+C:\Users\Administrator\Desktop\WebOfSciSearcher\WebSearcher\bin\Debug\WebSearcher.pdb
+C:\Users\Administrator\Desktop\WebOfSciSearcher\WebSearcher\obj\Debug\WebSearcher.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WebOfSciSearcher\WebSearcher\obj\Debug\WebSearcher.dll
+C:\Users\Administrator\Desktop\WebOfSciSearcher\WebSearcher\obj\Debug\WebSearcher.pdb
+C:\Users\sui\Desktop\WebOfSciSearcher\WebSearcher\bin\Debug\WebSearcher.dll.config
+C:\Users\sui\Desktop\WebOfSciSearcher\WebSearcher\bin\Debug\WebSearcher.dll
+C:\Users\sui\Desktop\WebOfSciSearcher\WebSearcher\bin\Debug\WebSearcher.pdb
+C:\Users\sui\Desktop\WebOfSciSearcher\WebSearcher\obj\Debug\WebSearcher.dll
+C:\Users\sui\Desktop\WebOfSciSearcher\WebSearcher\obj\Debug\WebSearcher.pdb
+E:\yan\WebOfSciSearcher\WebSearcher\obj\Debug\WebSearcher.dll
+E:\yan\WebOfSciSearcher\WebSearcher\obj\Debug\WebSearcher.pdb
+E:\yan\WebOfSciSearcher\WebSearcher\bin\Debug\WebSearcher.dll.config
+E:\yan\WebOfSciSearcher\WebSearcher\bin\Debug\WebSearcher.dll
+E:\yan\WebOfSciSearcher\WebSearcher\bin\Debug\WebSearcher.pdb
+E:\yan\WebOfSciSearcher\WebSearcher\obj\Debug\WebSearcher.csprojResolveAssemblyReference.cache

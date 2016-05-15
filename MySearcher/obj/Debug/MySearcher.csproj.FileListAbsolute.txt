@@ -1,0 +1,28 @@
+D:\VS2013\WebOfSciSearcher\MySearcher\bin\Debug\MySearcher.exe.config
+D:\VS2013\WebOfSciSearcher\MySearcher\bin\Debug\MySearcher.exe
+D:\VS2013\WebOfSciSearcher\MySearcher\bin\Debug\MySearcher.pdb
+D:\VS2013\WebOfSciSearcher\MySearcher\obj\Debug\MySearcher.csprojResolveAssemblyReference.cache
+D:\VS2013\WebOfSciSearcher\MySearcher\obj\Debug\MySearcher.exe
+D:\VS2013\WebOfSciSearcher\MySearcher\obj\Debug\MySearcher.pdb
+E:\srcs\Visual Studio 2013\Projects\WebOfSciSearcher\WebOfSciSearcher\MySearcher\obj\Debug\MySearcher.pdb
+E:\srcs\Visual Studio 2013\Projects\WebOfSciSearcher\WebOfSciSearcher\MySearcher\bin\Debug\MySearcher.pdb
+E:\srcs\Visual Studio 2013\Projects\WebOfSciSearcher\WebOfSciSearcher\MySearcher\bin\Debug\MySearcher.dll.config
+E:\srcs\Visual Studio 2013\Projects\WebOfSciSearcher\WebOfSciSearcher\MySearcher\bin\Debug\MySearcher.dll
+E:\srcs\Visual Studio 2013\Projects\WebOfSciSearcher\WebOfSciSearcher\MySearcher\obj\Debug\MySearcher.dll
+C:\Users\Administrator\Desktop\WebOfSciSearcher\MySearcher\bin\Debug\MySearcher.dll.config
+C:\Users\Administrator\Desktop\WebOfSciSearcher\MySearcher\bin\Debug\MySearcher.dll
+C:\Users\Administrator\Desktop\WebOfSciSearcher\MySearcher\bin\Debug\MySearcher.pdb
+C:\Users\Administrator\Desktop\WebOfSciSearcher\MySearcher\obj\Debug\MySearcher.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WebOfSciSearcher\MySearcher\obj\Debug\MySearcher.dll
+C:\Users\Administrator\Desktop\WebOfSciSearcher\MySearcher\obj\Debug\MySearcher.pdb
+C:\Users\sui\Desktop\WebOfSciSearcher\MySearcher\bin\Debug\MySearcher.exe.config
+C:\Users\sui\Desktop\WebOfSciSearcher\MySearcher\bin\Debug\MySearcher.exe
+C:\Users\sui\Desktop\WebOfSciSearcher\MySearcher\bin\Debug\MySearcher.pdb
+C:\Users\sui\Desktop\WebOfSciSearcher\MySearcher\obj\Debug\MySearcher.exe
+C:\Users\sui\Desktop\WebOfSciSearcher\MySearcher\obj\Debug\MySearcher.pdb
+E:\yan\WebOfSciSearcher\MySearcher\bin\Debug\MySearcher.exe.config
+E:\yan\WebOfSciSearcher\MySearcher\bin\Debug\MySearcher.exe
+E:\yan\WebOfSciSearcher\MySearcher\bin\Debug\MySearcher.pdb
+E:\yan\WebOfSciSearcher\MySearcher\obj\Debug\MySearcher.exe
+E:\yan\WebOfSciSearcher\MySearcher\obj\Debug\MySearcher.pdb
+E:\yan\WebOfSciSearcher\MySearcher\obj\Debug\MySearcher.csprojResolveAssemblyReference.cache

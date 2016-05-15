@@ -1,0 +1,488 @@
+NO	Academy of Finland
+NO	Action on Hearing Loss
+NO	Adam Mickiewicz University - Tesis
+NO	Agence Nationale de la Recherche (ANR) 
+NO	Agency for Healthcare Research and Quality (AHRQ)
+NO	Agency for Healthcare Research and Quality (AHRQ)- Data
+NO	Agency for Science, Technology and Research (A*STAR)
+NO	Alzheimer Society of Canada
+NO	Alzheimer�s Society
+NO	American Heart Association
+NO	American Heart Association - Data
+NO	Amherst College
+NO	Arcada
+NO	Arizona State University Libraries 
+NO	Arthritis Research UK
+NO	Arts and Humanities Research Council (AHRC) - Data
+NO	Arts and Humanities Research Council (AHRC, 2009)
+NO	Arts and Humanities Research Council (AHRC, 2013)
+NO	Assistant Secretary for Preparedness and Response (ASPR) 
+NO	Assistant Secretary for Preparedness and Response (ASPR) - Data
+NO	Association for International Cancer Research
+NO	Australian National University
+NO	Australian Research Council (ARC) 
+NO	Austrian Development Agency (APPEAR projects)
+NO	Autism Speaks 
+NO	Barnard College Library Academic & Information Services 
+NO	Belgorod State University
+NO	Bielefeld University
+NO	Bifr�st University
+NO	Bill & Melinda Gates Foundation
+NO	Bill & Melinda Gates Foundation - Data
+NO	Biotechnology and Biological Sciences Research Council (BBSRC) - Data
+NO	Biotechnology and Biological Sciences Research Council (BBSRC, 2006)
+NO	Biotechnology and Biological Sciences Research Council (BBSRC, 2013)
+NO	Blekinge Institute of Technology
+NO	Bloodwise
+NO	Bond University
+NO	Boston University
+NO	Breakthrough Breast Cancer
+NO	Breast Cancer Campaign
+NO	Breast Cancer Now
+NO	Brigham Young University. Department of Instructional Psychology and Technology
+NO	British Heart Foundation (BHF) 
+NO	Brock University - Tesis
+NO	Bryn Mawr College
+NO	Bucknell University
+NO	Bucks New University
+NO	California Institute of Technology
+NO	California Institute of Technology - Tesis
+NO	California Polytechnic State University - Tesis
+NO	California State University, Chico - Tesis
+NO	California State University, Northridge - Tesis
+NO	Canadian Breast Cancer Research Alliance (CBCRA) 
+NO	Canadian Cancer Society (CCS)
+NO	Canadian Foundation for Healthcare Improvement (CFHI)
+NO	Canadian Health Services Research Foundation (CHSRF)
+NO	Canadian Institutes of Health Research (CIHR) 
+NO	Canadian Institutes of Health Research (CIHR) - Data 
+NO	Cancer Research UK 
+NO	Cancer Research UK - Data
+NO	Center for Neuroplasticity and Pain (CNAP)
+NO	Centers for Disease Control and Prevention (CDC - Data
+NO	Centers for Disease Control and Prevention (CDC)
+NO	Central Ostrobothnia University of Applied Sciences
+NO	CERN (European Organization for Nuclear Research)
+NO	CERN Physics Publications
+NO	Chalmers Technical University
+YES	Charles Sturt University
+NO	Chief Scientist Office, Scottish Executive (CSO) 
+NO	Chinese Academy of Sciences 
+NO	Columbia University Lamont-Doherty Earth Observatory
+NO	Columbia University Libraries/Information Services
+NO	Columbia University Mailman School of Public Health
+NO	Columbia University School of Social Work 
+NO	Comunidad Aut�noma de Madrid
+NO	Concordia University
+NO	Congreso de la Rep�blica del Per�
+NO	Connecticut College
+NO	Consultative Group on International Agricultural Research (CGIAR)
+NO	Consultative Group on International Agricultural Research (CGIAR) - Data
+NO	Copenhagen Business School
+NO	Covenant University
+NO	Curtin University - Tesis
+NO	Danish Council for Independent Research (DFF)
+NO	Danish Council for Strategic Research
+NO	Danish Council for Technology and Innovation
+NO	Danish National Advanced Technology Foundation
+NO	Danish National Research Foundation
+NO	Deakin University
+NO	Delft University of Technology
+NO	Department for Employment and Learning, Northern Ireland (DELNI)
+NO	Department of Biotechnology and Department of Science & Technology Ministry of Science & Technology Government of India
+NO	Department of Health UK (2007-2014)
+NO	Department of Health UK (2014-)
+NO	Diabetes UK
+NO	Diaconia University of Applied Sciences
+NO	Donetsk National Technical University's (DonNTU)
+NO	Drake University
+NO	Dublin Institute of Technology
+NO	Duke University
+NO	Duke University - Tesis
+NO	Dunhill Medical Trust 
+NO	Durham University
+NO	Economic and Social Research Council (ESRC) - Data
+NO	Economic and Social Research Council (ESRC, 2006)
+NO	Economic and Social Research Council (ESRC, 2013)
+YES	Edgehill University
+YES	Edinburgh Napier University
+NO	Edith Cowan University
+NO	Emory University
+NO	Engineering and Physical Sciences Research Council (EPSRC, 2011)
+NO	Engineering and Physical Sciences Research Council (EPSRC, 2013)
+NO	Engineering and Physical Sciences Research Council - Data (2011)
+NO	Erasmus University Rotterdam
+NO	Escola Nacional de Sa�de P�blica Sergio Arouca
+NO	ETH Zurich
+NO	EUR-OCEANS
+NO	European Commission FP7 (I: Energy, Environment, Health, Information and Communication Technologies, Research Infrastructures)
+NO	European Commission FP7 (II: Science in Society, Socio-economic Sciences and Humanities)
+NO	European Commission. Horizon 2020
+NO	European Commission. Horizon 2020 (Open Research Data Pilot)
+NO	European Molecular Biology Laboratory (EMBL)
+NO	European Research Council (ERC, 2007)
+NO	European Research Council (ERC, 2013)
+NO	Facult�s Universitaires Catholiques de Mons
+NO	Facult�s Universitaires Notre-Dame de la Paix
+NO	Fight for Sight
+NO	Fondazione Cariplo
+NO	Fonds de la Recherche en Sant� du Qu�bec (FRSQ)
+NO	Fonds de la Recherche Scientifique (FNRS)
+NO	Fonds Wetenschappelijk Onderzoek Vlaanderen (FWO) [Research Foundation Flanders]
+NO	Fonds zur F�rderung der Wissenschaftlichen Forschung (FWF) [Austrian Science Fund]
+NO	Fonds zur F�rderung der Wissenschaftlichen Forschung (FWF)[Austrian Science Fund] - Data
+NO	Food and Drug Administration (FDA)
+NO	Food and Drug Administration (FDA) - Data
+NO	Forskningsr�det Formas [The Swedish Research Council Formas]
+NO	Forskningsr�det F�r H�lsa, Arbetsliv och V�lf�rd (FORTE) [Swedish Research Council for Health, Working Life and Welfare]
+NO	Forskningsr�det [The Research Council of Norway]
+NO	Forskningsr�det [The Research Council of Norway] - (June 2014)
+NO	Franklin W. Olin College of Engineering
+NO	Fraunhofer-Gessellschaft 
+NO	Funda��o Oswaldo Cruz (Fiocruz)
+NO	Funda�ao para la Ci�ncia e a Tecnologia 
+NO	Genome Canada - Data
+NO	Georgia Institute of Technology
+NO	Ghent University
+NO	Gobierno de Argentina. Ministerio de Ciencia, Tecnolog�a e Innovaci�n Productiva
+NO	Gobierno de Espa�a (Ley de la Ciencia, la Tecnolog�a y la Innovaci�n)
+NO	Gobierno de Espa�a (Real Decreto 99/2011) - Tesis
+NO	Gordon and Betty Moore Foundation (GBMF) - Data 
+NO	Governo Italiano. Ministero dell'Istruzione, dell'Universit� e della Ricerca
+NO	Graduate and Professional Student Senate U. of Washington
+NO	Grinnell College
+NO	Gustavus Adolphus College. Library Faculty
+NO	HAAGA-HELIA University of Applied Sciences
+NO	HAMK University of Applied Sciences
+NO	Harvard Business School
+NO	Harvard Divinity School
+NO	Harvard Faculty of Arts and Sciences
+NO	Harvard Graduate School of Design
+NO	Harvard Graduate School of Education
+NO	Harvard Kennedy School of Government 
+NO	Harvard Law School
+NO	Harvard Medical School 
+NO	Harvard School of Public Health
+NO	Health Research Board (HRB) 
+NO	Heart and Stroke Foundation
+NO	Helmholtz Association
+NO	Helsinki Metropolia University of Applied Sciences
+NO	Higher Education Authority (HEA) 
+NO	Higher Education Funding Council for England (HEFCE)
+NO	Higher Education Funding Council for Wales (HEFCW)
+NO	Hope College
+NO	Howard Hughes Medical Institute (HHMI) 
+NO	Howard Hughes Medical Institute (HHMI) - Data
+NO	HUMAK University of Applied Sciences
+YES	ICRISAT International Crops Research Institute for the Semi-Arid Tropics
+NO	Imperial College London
+NO	Indian Council of Agricultural Research (ICAR)
+NO	Indiana University-Purdue University Fort Wayne
+NO	Indiana University-Purdue University Indianapolis
+NO	Indiana University-Purdue University Indianapolis Library
+YES	Instituo Politecnico de Bragan�a
+NO	Institut Francais de Recherche pour l'Exploitation de la Mer  (IFREMER)
+NO	Institute of Biochemistry and Biophysics Polish Academy
+NO	Institute of Education Sciences (IES)  
+NO	Institute of Education Sciences (IES) - Data
+NO	Instituto Polit�cnico de Castelo Branco
+NO	Instituto Polit�cnico de Leiria
+NO	Instituto Polit�cnico de Viseu
+YES	Instituto Universit�rio de Lisboa
+NO	International Development Research Centre (IDRC)
+YES	International Hellenic University
+NO	Ireland. Department of Agriculture, Food and the Marine
+NO	Irish Research Council
+NO	Irish Research Council - Data
+NO	Istituto Superiore di Sanit� (ISS) 
+NO	Izmir Institute of Technology
+YES	James Cook University
+NO	JAMK University of Applied Sciences
+NO	Japan. Ministry of Education, Science and Culture - Tesis
+NO	JISC (Joint Information Systems Committee) 
+NO	Joint Research Centre
+NO	Jomo Kenyatta University of Agriculture and Technology
+NO	Kajaani University of Applied Sciences
+NO	Kansas State University - Tesis
+NO	Karolinska Institutet
+NO	Kemi-Tornio University of Applied Sciences
+NO	Kenyatta University
+NO	King Abdullah University of Science and Technology
+NO	Knut och Alice Wallenbergs Stiftelse
+NO	Koninklijke Nederlandse Akademie van Wetenschappen (KNAW) [The Royal Netherlands Academy of Arts and Sciences]
+NO	Kungliga biblioteket [National Library of Sweden]
+NO	Kwame Nkrumah University of Science and Technology - Tesis
+NO	Kymenlaakso University of Applied Sciences
+NO	Kyoto University 
+NO	Lafayette College
+NO	Lahti University of Applied Sciences
+YES	Lancaster University
+NO	Lancaster University - Data
+NO	Laurea University of Applied Sciences
+NO	Leukaemia & Lymphoma Research
+NO	Libera Universit� Internazionale degli Studi Sociali Guido Carli - Tesis
+NO	Lietuvos Respublikos. Mokslo Ir Studiju Istatymas [Republic of Lithuania. Science and Research Law]
+NO	Lincoln University
+NO	Liverpool John Moores University
+NO	Loughborough University
+NO	Macquarie University
+NO	Magyar Tudomanyos Akademia [Hungarian Academy of Sciences]
+NO	Malm� University
+NO	Marie Curie Cancer Care
+NO	Massachusetts Institute of Technology (MIT)
+NO	McGill University. Library
+NO	Medical Research Council (MRC) - Data
+NO	Medical Research Council (MRC, 2006)
+NO	Medical Research Council (MRC, 2013)
+NO	Miami University of Ohio. Libraries
+NO	Michael Smith Foundation for Health Research (MSFHR)
+NO	Microsoft Research
+NO	Mikkeli University of Applied Sciences
+NO	Monash University - Tesis
+NO	Motor Neuron Disease Association
+NO	Multiple Sclerosis Society
+NO	Multiple Sclerosis Society of Canada
+NO	Myrovlytis Trust
+NO	Nanyang Technological University
+NO	Nasjonalt kunnskapssenter for helsetjenesten [Norwegian Knowledge Centre for Health Services]
+NO	National Aeronautics and Space Administration (NASA)
+NO	National Aeronautics and Space Administration (NASA) - Data
+NO	National Center for Atmospheric Research (NCAR)
+NO	National Centre for the Replacement, Refinement and Reduction of Animals in Research (NC3Rs)
+NO	National Health and Medical Research Council (NHMRC) 
+NO	National Institute for Health Research (NIHR, 2007-2014)
+NO	National Institute for Health Research (NIHR, 2014-)
+NO	National Institute of Standards and Technology (NIST)
+NO	National Institute of Standards and Technology (NIST) - Data
+NO	National Institutes of Health (NIH) 
+NO	National Institutes of Health (NIH) - Data
+NO	National Natural Science Foundation of China (NSFC) 
+NO	National Oceanic and Atmospheric Administration (NOAA)
+NO	National Oceanic and Atmospheric Administration (NOAA) - Data
+NO	National Research Council Canada (NRC) 
+NO	National Research Foundation
+NO	National Science Foundation
+NO	National Science Foundation - Data
+NO	National Science Library, Chinese Academy of Sciences
+NO	National University of Ireland, Maynooth (NUI Maynooth)
+YES	National University of Kyiv Mohyla Academy
+NO	Natural Environment Research Council (NERC) - Data
+NO	Natural Environment Research Council (NERC, 2006)
+NO	Natural Environment Research Council (NERC, 2013)
+NO	Natural Sciences and Engineering Research Council of Canada (NSERC)
+NO	Nederlandse Organisatie voor Wetenschappelijk Onderzoek (NWO)- Data [Netherlands Organisation for Scientific Research]
+NO	Nederlandse Organisatie voor Wetenschappelijk Onderzoek (NWO)[Netherlands Organisation for Scientific Research] 
+NO	NIH - Genomic Data Sharing Policy
+NO	Nordic Council of Ministers
+NO	North Karelia University of Applied Sciences
+NO	Novia University of Applied Sciences
+NO	Nuffield Foundation
+NO	Oberlin College
+NO	Office of Research & Development - Veteran Affairs Research
+NO	Ontario Institute for Cancer Research (OICR) 
+NO	Ontario Institute for Cancer Research (OICR) - Data 
+NO	Oregon State University
+NO	Oregon State University Libraries
+NO	Oregon State University. College of Oceanic and Atmospheric Sciences
+NO	Orsz�gos Tudom�nyos Kutat�si Alapprogramok (OTKA) [Hungarian Scientific Research Fund]
+NO	Oulu University of Applied Sciences
+NO	Parkinson's UK
+NO	Phelan-McDermid Syndrome Foundation (PMSF)
+NO	Princeton University
+NO	Principado de Asturias
+NO	Queen Margaret University, Edinburgh
+NO	Queen's University Library Faculty
+NO	Queensland University of Technology
+NO	Rann�s - The Icelandic Centre for Research
+NO	Rep�blica Federativa do Brasil. Senado Federal
+NO	Rice University
+NO	Riksbankens Jubileumsfond (RJ)
+NO	Roehampton University
+NO	Rollins College. Faculty of Arts & Sciences
+NO	Roskilde University
+NO	Rovaniemi University of Applied Sciences
+YES	Royal Holloway, University of London
+NO	Ruber BoskoviInstitute
+NO	Rutgers, The State University of New Jersey
+NO	Saimaa University of Applied Sciences
+NO	Satakunta University of Applied Sciences
+NO	Savonia University of Applied Sciences
+NO	Schweizerischer Nationalfonds zur F�rderung der Wissenschaftlichen Forschung (SNF) [Swiss National Science Foundation]
+NO	Science and Technology Facilities Council (STFC, 2006)
+NO	Science and Technology Facilities Council (STFC, 2013)
+NO	Science Foundation Ireland (SFI) 
+NO	Scottish Funding Council (SFC)
+NO	Sein�joki University of Applied Sciences
+NO	Smithsonian Institution
+NO	Social Sciences and Humanities Research Council of Canada (SSHRC)
+NO	St George�s, University of London
+NO	Stanford University School of Education
+NO	State of California. State Department of Public Health 
+NO	Strathmore University 
+NO	Stroke Association 
+NO	Sumy State University
+NO	TAMK University of Applied Sciences
+YES	Teesside University
+NO	Telethon
+NO	T�LUQ, Universit� du Qu�bec
+NO	Temple University - Tesis
+NO	Ternopil State Ivan Puluj Technical University 
+NO	The College of Wooster
+NO	The Hong Kong Polytechnic University
+NO	The Royal Society - Data
+NO	The University of Hong Kong Libraries
+NO	The University of Newcastle, Australia
+NO	The University of Queensland
+NO	The University of Waikato
+NO	The World Bank
+NO	Trinity College Dublin
+NO	Trinity University
+NO	Turku University of Applied Sciences
+NO	U.S. Department of Agriculture. Agricultural Research Service
+NO	U.S. Department of Energy
+NO	U.S. Department of Energy - Data 
+NO	U.S. Department of Veterans
+NO	U.S. Federal Government
+NO	U.S. Geological Survey - Data
+NO	UK Government. Department for International Development
+NO	UK Government. Department for International Development - Data
+NO	Ume� University
+YES	UNED
+NO	United Nations Educational, Scientific and Cultural Organization (UNESCO)
+NO	United States Agency International Development (USAID) - Data
+NO	Universidad Carlos III de Madrid
+NO	Universidad Complutense de Madrid
+NO	Universidad de Buenos Aires. Facultad de Ciencias Exactas y Naturales
+NO	Universidad de Burgos
+NO	Universidad de Costa Rica
+NO	Universidad de Huelva
+NO	Universidad de Las Palmas de Gran Canaria - Tesis
+NO	Universidad de Le�n
+NO	Universidad de Los Andes
+NO	Universidad de Salamanca - Tesis
+NO	Universidad de Valladolid - Tesis
+NO	Universidad Nacional de Colombia - Tesis
+NO	Universidad Nacional de la Plata - Tesis
+YES	Universidad Nacional de Mar del Plata. Facultad de Ciencias Econ�micas y Sociales - (2015)
+NO	Universidad Polit�cnica de Madrid
+NO	Universidad Rey Juan Carlos
+NO	Universidade Aberta
+NO	Universidade de Bras�lia
+NO	Universidade de Lisboa
+NO	Universidade de S�o Paulo
+NO	Universidade de Tr�s-os-Montes e Alto Douro
+NO	Universidade do Algarve
+YES	Universidade do Minho
+NO	Universidade do Porto
+NO	Universidade Federal de Lavras
+NO	Universidade Federal de Sergipe
+NO	Universidade Federal do Rio Grande
+NO	Universidade Federal do Rio Grande do Sul - Tesis
+YES	Universidade Fernando Pessoa
+NO	Universit� degli Studi di Milano
+YES	Universit� degli Studi di Torino
+NO	Universit� degli Studi di Trieste
+NO	Universitat Aut�noma de Barcelona
+YES	Universitat de Barcelona
+YES	Universitat Oberta de Catalunya (UOC)
+NO	Universitat Polit�cnica de Catalunya
+YES	Universit� Catholique de Louvain
+NO	Universit� d'Angers
+NO	Universit� de Gen�ve
+YES	Universit� de Li�ge
+NO	Universit� du Qu�bec. �cole de Technologie Sup�rieure - Tesis
+YES	Universit� Saint-Louis - Bruxelles
+NO	University College London
+NO	University of Abertay Dundee
+YES	University of Antwerp
+NO	University of Arkansas
+YES	University of Bath
+NO	University of Bergen
+YES	University of Bern
+YES	University of Bristol
+NO	University of Calgary: Library and Cultural Resources
+NO	University of California
+NO	University of California, San Francisco (UCSF)
+NO	University of Coimbra
+NO	University of Colorado Boulder
+NO	University of Delaware
+NO	University of Dundee
+NO	University of East London - Tesis
+YES	University of Edinburgh
+NO	University of Edinburgh - Data
+NO	University of Exeter
+YES	University of Glasgow
+NO	University of Guelph - Tesis
+NO	University of Guelph. Faculty of Environmental Sciences
+NO	University of Hawaii at Manoa
+NO	University of Helsinki
+NO	University of Illinois at Chicago. Library Faculty
+NO	University of Illinois at Urbana-Champaign - Tesis
+NO	University of Iowa Libraries
+NO	University of Island 
+NO	University of Johannesburg
+NO	University of Kansas
+NO	University of Leicester
+YES	University of Lincoln
+NO	University of Ljubljana. Faculty of Civil and Geodetic Engineering
+NO	University of Ljubljana. Faculty of Education
+YES	University of Luxembourg
+NO	University of Massachusetts Medical School
+NO	University of Nairobi
+NO	University of North Carolina at Chapel Hill
+NO	University of North Carolina at Greensboro. University Libraries
+NO	University of North Texas
+NO	University of Northern Colorado. Library Faculty
+NO	University of Nottingham
+NO	University of Oregon. Department of Romance Languages
+NO	University of Oregon. Library Faculty
+NO	University of Oslo
+NO	University of Pretoria
+NO	University of Puerto Rico. School of Law
+NO	University of Reading - (2011)
+YES	University of Reading - (2014)
+NO	University of Rhode Island
+NO	University of Rhode Island - Tesis
+NO	University of Salford
+YES	University of South Australia
+YES	University of Southampton 
+YES	University of Southampton. School of Electronics and Computer Science
+NO	University of St.Gallen
+NO	University of Stirling
+YES	University of Strathclyde
+NO	University of Surrey
+NO	University of Tasmania. School of Computing
+NO	University of the Highlands and Islands 
+NO	University of Troms�
+NO	University of Virginia
+NO	University of Warwick
+YES	University of Westminster
+YES	University of Wollongong
+YES	University of Zurich
+NO	Universit�t Basel
+NO	US Department of Agriculture (USDA)
+NO	US Department of Agriculture (USDA) - Data
+NO	US Department of Defense (DoD) 
+NO	US Department of Defense (DoD)- Data 
+NO	Utah State  University
+NO	VAMK University of Applied Sciences
+NO	Vetenskapsr�det [Swedish Research Council]
+NO	Vetenskapsr�det [Swedish Research Council] - Data
+NO	Victoria University 
+NO	Vilnius University
+NO	Virginia Tech. University Libraries
+NO	Vrije University Amsterdam 
+NO	Vytautas Magnus University
+NO	Wageningen UR
+NO	Wake Forest University Library Faculty
+NO	Washington University in St. Louis
+NO	Wellcome Trust - (2005)
+NO	Wellcome Trust - (2013)
+NO	Wellcome Trust - Data (2010)
+NO	Wellesley College
+NO	White House Directive
+NO	White House Directive - Data
+NO	Wikimedia Foundation
+NO	World Health Organization (WHO)
+NO	Worldwide Cancer Research
+NO	York University Librarians

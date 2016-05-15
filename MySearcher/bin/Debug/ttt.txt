@@ -1,0 +1,136 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="es">
+<head>
+<title>MELIBEA</title>
+<meta name="DC.Title" content="MELIBEA">
+<meta name="DC.Creator" content="Josep Manuel Rodriguez Gairin">
+<meta name="DC.Creator.Address" content="rodriguez.gairin@gmail.com">
+<meta name="DC.Date" scheme="ISO8601" content="2009-01-28">
+<meta name="DC.Type" content="Text">
+<meta name="DC.Format" scheme="IMT" content="text/html">
+<meta name="DC.Identifier" content="/politicas/consulta.php">
+<meta name="DC.Language" scheme="ISO639-1" content="es">
+<meta name="DC.Rights" content="Kronos. Josep Manuel Rodr�guez Gair�n">
+<meta name="DC.Date.X-MetadataLastModified" scheme="ISO8601" content="2009-01-28">
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<link rel="shortcut icon" href="/gtbib/imagenes/favicon.ico">
+<link rel="stylesheet" href="politicas.css" type="text/css" /><link rel="stylesheet" href="/gtb/jscss/SpryTabbedPanels.css" type="text/css" />
+<script src="/gtb/jscss/SpryTabbedPanels.js" type="text/javascript"></script>
+</head>
+<body>
+<div id="div-cab" class="cabecera">
+<div id="div-cab-izq"><a href="default.php"><img src="politicas.gif" alt="logo" border="0" /></a></div>
+<div id="div-cab-der">
+<div id="titulo">MELIBEA</div>
+<div id="subtitulo">Directorio y estimador de pol�ticas en favor del acceso abierto a la producci�n cient�fica</div>
+</div>
+<div id="div-idiomas">
+<a id="idiomas" style="position:absolute;top:0px;right:10px;" href="/politicas/?idioma=en">english</a></div>
+</div><div id="div-opc" class="opciones">
+<div id="div-opc-opciones" class="opciones">
+<a class="cap" href="default.php">Buscar</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a class="cap" href="nueva.php?directorio=politicas">Sugerir instituci�n</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a class="cap" href="default.php?directorio=politicas&campo_1=POLITICA&formato=grafico&titulo=Pol�ticas OA: Pol�tica">Gr�ficos</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a class="cap" href="default.php?contenido=acerca">Acerca de</a></div>
+<div id="div-opc-idiomas" class="opciones" style="text-align:right">
+<a class="cap" href="/repositorios">BuscaRepositorios</a>&nbsp;|&nbsp;
+<a class="cap" href="/dulcinea">Dulcinea</a>&nbsp;|&nbsp;
+<a class="cap" href="/">AccesoAbierto.net</a>&nbsp;
+</div>
+</div><div id="div-opc-dir">
+</div>
+
+<script type="text/javascript">
+function ventana(url)
+        {
+        v_consul=window.open(url,"consulta","resizable=1,menubar=yes,scrollbars=yes,status=yes,left=20,top=20,width=740,height=400" );
+        v_consul.focus();
+        };
+function yahoo(datos)
+        {
+        v_consul=window.open("http://search.yahoo.com/search?ei=UTF-8&fr=sfp&p="+datos,"consulta","resizable=1,menubar=yes,scrollbars=yes,status=yes,left=20,top=20,width=740,height=400" );
+        v_consul.focus();
+        };
+function msn(datos)
+        {
+        v_consul=window.open("http://search.msn.com/results.aspx?cp=1252&q="+datos,"consulta","resizable=1,menubar=yes,scrollbars=yes,status=yes,left=20,top=20,width=740,height=400" );
+        v_consul.focus();
+        };
+function google(datos)
+        {
+        v_consul=window.open("http://www.google.com/custom?q="+datos+"&ie=UTF-8&oe=UTF-8&cof=BIMG%3Ahttp%3A%2F%2Fwww.kronosdoc.com%2Ffondo.jpg%3BL%3Ahttp%3A%2F%2Fwww.kronosdoc.com%2Fkronosgoogle.gif%3BLC%3A%23cc0000%3BBGC%3A%239999cc%3BAH%3Acenter%3BGL%3A0%3BS%3Ahttp%3A%2F%2Fwww.kronosdoc.com%3BAWFID%3Aa896b3d6cbaf77c6%3B&domains=&sitesearch=&countq=0&sa=Buscar","consulta","resizable=1,menubar=yes,scrollbars=yes,status=yes,left=20,top=20,width=740,height=400" );
+        v_consul.focus();
+        };
+function scholar(datos)
+        {
+        v_consul=window.open("http://scholar.google.com/scholar?hl=es&lr=&q=+"+datos+"&ie=UTF-8&oe=UTF-8&btnG=Search","consulta","resizable=1,menubar=yes,scrollbars=yes,status=yes,left=20,top=20,width=740,height=400" );
+        v_consul.focus();
+        };
+</script>
+<form name="popularidad" method="post" action="popreport.php">
+<input type="hidden" name="domain" value="" />
+</form>
+
+				
+<div id="contenedor_global">
+	 <h2 id="ficha_titulo">University of Southampton. School of Electronics and Computer Science</h2>
+	 <div class="TabbedPanels" id="TabbedPanels1">
+	 <ul class="TabbedPanelsTabGroup">
+			<li class="TabbedPanelsTab" style="font-size:12px">Ficha completa</li>
+						<li class="TabbedPanelsTab" style="font-size:12px">estimador</li>
+			</ul>
+		<div class="TabbedPanelsContentGroup">
+				<div class="TabbedPanelsContent">
+				<table width="100%"><thead><col style="white-space:nowrap" /></thead><tbody><tr><td valign="top" style="width:40%"><b>INSTITUCION:</b> </td><td valign="top">University of Southampton. School of Electronics and Computer Science</td></tr>
+<tr><td valign="top" style="width:40%"><b>CATEGORIA:</b> </td><td valign="top">Instituci�n acad�mica/investigadora</td></tr>
+<tr><td valign="top" style="width:40%"><b>URL:</b> </td><td valign="top"><a href="javascript:ventana('http://www.ecs.soton.ac.uk/')">http://www.ecs.soton.ac.uk/</a></td></tr>
+<tr><td valign="top" style="width:40%"><b>PAIS:</b> </td><td valign="top">Reino Unido</td></tr>
+<tr><td valign="top" style="width:40%"><b>POLITICA:</b> </td><td valign="top">Requisito</td></tr>
+<tr><td valign="top" style="width:40%"><b>URL_POLITICA:</b> </td><td valign="top"><a href="javascript:ventana('http://users.ecs.soton.ac.uk/lac/archpol.html')">http://users.ecs.soton.ac.uk/lac/archpol.html</a></td></tr>
+<tr><td valign="top" style="width:40%"><b>EFECTIVA_DESDE:</b> </td><td valign="top">2003-01-02</td></tr>
+<tr><td valign="top" style="width:40%"><b>VIA_ACCESO_ABIERTO:</b> </td><td valign="top">V�a verde (dep�sito en repositorios)</td></tr>
+<tr><td valign="top" style="width:40%"><b>EXENCION-UNIV:</b> </td><td valign="top">No</td></tr>
+<tr><td valign="top" style="width:40%"><b>TIPO_DOCUMENTOS:</b> </td><td valign="top">Art�culos</td></tr>
+<tr><td valign="top" style="width:40%"><b>VERSION:</b> </td><td valign="top">Version del autor revisada y corregida, Pre-print sin evaluar</td></tr>
+<tr><td valign="top" style="width:40%"><b>CUANDO:</b> </td><td valign="top">Sin especificar</td></tr>
+<tr><td valign="top" style="width:40%"><b>COPYRIGHT_UNIV:</b> </td><td valign="top">Los autores deben conservar el copyright siempre que sea posible</td></tr>
+<tr><td valign="top" style="width:40%"><b>TEXTO_COPYRIGHT:</b> </td><td valign="top">"...Many publishers will allow the peer-reviewed postprint to be self-archived. The copyright transfer agreement will either specify this right explicitly or the author can inquire about it directly. If you are uncertain about the terms of your agreement,  a table of copyright policies is available from the JISC ROMEO project. Wherever possible,  you are advised to modify your copyright agreement so that it does not disallow self-archiving..."</td></tr>
+<tr><td valign="top" style="width:40%"><b>DONDE:</b> </td><td valign="top">En un repositorio institucional</td></tr>
+<tr><td valign="top" style="width:40%"><b>REQUERIDO_EN:</b> </td><td valign="top">ECS EPrints Repository</td></tr>
+<tr><td valign="top" style="width:40%"><b>REQUERIDO_URL:</b> </td><td valign="top"><a href="javascript:ventana('http://eprints.ecs.soton.ac.uk/')">http://eprints.ecs.soton.ac.uk/</a></td></tr>
+<tr><td valign="top" style="width:40%"><b>USO_INTERNO:</b> </td><td valign="top">S�, Para procesos de promoci�n</td></tr>
+<tr><td valign="top" style="width:40%"><b>ARCHIVO_TESIS_OBLIGATORIO:</b> </td><td valign="top">No</td></tr>
+</tbody></table>				</div>
+								<div class="TabbedPanelsContent">
+				<table style="font-size:11px;" width="100%">
+<tr><td  width="60%"><table style="font-size:11px;" width="100%"><tr style="background-color:#c0c0c0"><th><a href="politicas_faq.php">Cuesti�n</a></th><th><a href="politicas_estructura.php">Respuesta</a></th><th><a href="default.php?contenido=acerca#metodologia">Puntuaci�n</a></th><th>%</th><th>P</th></tr><tr style="vertical-align:top"><td>Q4.&nbsp;</td><td>Requisito</td><td style="text-align:right;">2</td></tr>
+<tr style="background-color:#e0e0e0"><td colspan="2"></td><td style="text-align:right;">2</td><td style="text-align:right;">0.4</td><td style="text-align:right;">0.8</td></tr><tr style="vertical-align:top"><td>Q9.&nbsp;</td><td>No</td><td style="text-align:right;">1</td></tr>
+<tr style="background-color:#e0e0e0"><td colspan="2"></td><td style="text-align:right;">1</td><td style="text-align:right;">0.1</td><td style="text-align:right;">0.1</td></tr><tr style="vertical-align:top"><td>Q16.&nbsp;</td><td>Version del autor revisada y corregida</td><td style="text-align:right;">0.8</td></tr>
+<tr style="vertical-align:top"><td></td><td>Pre-print sin evaluar</td><td style="text-align:right;">0.4</td></tr>
+<tr style="background-color:#e0e0e0"><td colspan="2"></td><td style="text-align:right;">1.2</td><td style="text-align:right;">0.05</td><td style="text-align:right;">0.06</td></tr><tr style="vertical-align:top"><td>Q17.&nbsp;</td><td>Sin especificar</td><td style="text-align:right;">0</td></tr>
+<tr style="background-color:#e0e0e0"><td colspan="2"></td><td style="text-align:right;">0</td><td style="text-align:right;">0.1</td><td style="text-align:right;"></td></tr><tr style="vertical-align:top"><td>Q18.&nbsp;</td><td></td><td style="text-align:right;"></td></tr><tr style="background-color:#e0e0e0"><td colspan="2"></td><td style="text-align:right;"></td><td style="text-align:right;"></td><td style="text-align:right;"></td></tr><tr style="vertical-align:top"><td>Q20.&nbsp;</td><td>Los autores deben conservar el copyright siempre que sea posible</td><td style="text-align:right;">1</td></tr>
+<tr style="background-color:#e0e0e0"><td colspan="2"></td><td style="text-align:right;">1</td><td style="text-align:right;">0.1</td><td style="text-align:right;">0.1</td></tr><tr style="vertical-align:top"><td>Q26.&nbsp;</td><td>S�</td><td style="text-align:right;">2</td></tr>
+<tr style="vertical-align:top"><td></td><td>Para procesos de promoci�n</td><td style="text-align:right;"></td></tr>
+<tr style="background-color:#e0e0e0"><td colspan="2"></td><td style="text-align:right;">2</td><td style="text-align:right;">0.10</td><td style="text-align:right;">0.2</td></tr><tr style="vertical-align:top"><td>Q27.&nbsp;</td><td>No</td><td style="text-align:right;">0</td></tr>
+<tr style="background-color:#e0e0e0"><td colspan="2"></td><td style="text-align:right;">0</td><td style="text-align:right;">0.10</td><td style="text-align:right;"></td></tr><tr style="background-color:#c0c0c0;text-align:right;"><th colspan="4">P:&nbsp;</th><th style="text-align:right;">1.26</th></tr><tr style="background-color:#c0c0c0"><th colspan="4"> (OA%) Instituci�n acad�mica/investigadora = 100*1.26/1.9</th><th style="text-align:right;">66.32</th></tr></table></td><td style="text-align:center;background-color:#fff;vertical-align:top"><img alt='grafico' border='0'  src='/gtb/grafico_ver.php?&id=93b2fa5b189933e3af7e673b227b3d0556d1ab5814851&PHPSESSID=93b2fa5b189933e3af7e673b227b3d05&id_grafico=img_0'><br /><img alt='grafico' border='0'  src='/gtb/grafico_ver.php?&id=93b2fa5b189933e3af7e673b227b3d0556d1ab58199f7&PHPSESSID=93b2fa5b189933e3af7e673b227b3d05&id_grafico=img_1'></td></tr></table>				</div>
+		</div>
+	</div>
+	<script type="text/javascript">
+	var TabbedPanels1 = new Spry.Widget.TabbedPanels("TabbedPanels1");
+	</script> 
+</div>
+<br />
+
+<br /><div id="pie">
+<div style="float:left">&nbsp;&nbsp;&copy; Grupo de investigaci�n "Acceso abierto a la ciencia"</div>
+<div style="float:right">28/01/2009&nbsp;&nbsp;</div>
+</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-3508184-2");
+pageTracker._trackPageview();
+} catch(err) {}</script></body></html>

@@ -1,0 +1,200 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Title matches "Wave and Particle in Molecular Interference Lithography" (Ignoring: "in", "and") - ePrints Soton</title>
+    <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <script type="text/javascript" src="http://sharenice.org/code.js"><!-- padder --></script>
+    <script type="text/javascript">
+// <![CDATA[
+var eprints_http_root = "http:\/\/eprints.soton.ac.uk";
+var eprints_http_cgiroot = "http:\/\/eprints.soton.ac.uk\/cgi";
+var eprints_oai_archive_id = "eprints.soton.ac.uk";
+var eprints_logged_in = false;
+// ]]></script>
+    <style type="text/css">.ep_logged_in { display: none }</style>
+    <link rel="stylesheet" type="text/css" href="/style/auto-3.3.10.css" />
+    <script type="text/javascript" src="/javascript/auto-3.3.10.js"><!--padder--></script>
+    <!--[if lte IE 6]>
+        <link rel="stylesheet" type="text/css" href="/style/ie6.css" />
+   <![endif]-->
+    <meta name="Generator" content="EPrints 3.3.10" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="Content-Language" content="en" />
+    <script type="text/javascript" src="http://www.google.com/jsapi"><!--padder--></script><script type="text/javascript">
+// <![CDATA[
+google.load("visualization", "1", {packages:["corechart", "geochart"]});
+// ]]></script><link rel="Top" href="http://eprints.soton.ac.uk/" />
+    <link rel="Sword" href="https://eprints.soton.ac.uk/sword-app/servicedocument" />
+    <link rel="SwordDeposit" href="https://eprints.soton.ac.uk/id/contents" />
+    <link rel="Search" type="text/html" href="http://eprints.soton.ac.uk/cgi/search" />
+    <link rel="Search" type="application/opensearchdescription+xml" href="http://eprints.soton.ac.uk/cgi/opensearchdescription" />
+    
+    <link rel="alternate" href="?cache=&amp;exp=0%7C1%7Ctitle%2Fcontributors_name%2F-date%7Carchive%7C-%7Ctitle%3Atitle%3AALL%3AIN%3AWave+and+Particle+in+Molecular+Interference+Lithography%7C-%7Ceprint_status%3Aeprint_status%3AANY%3AEQ%3Aarchive%7Cmetadata_visibility%3Ametadata_visibility%3AANY%3AEQ%3Ashow&amp;output=AllURLs&amp;_action_export_redir=1" type="text/html; charset=utf-8" title="All URLS" />
+    <link rel="alternate" href="?cache=&amp;exp=0%7C1%7Ctitle%2Fcontributors_name%2F-date%7Carchive%7C-%7Ctitle%3Atitle%3AALL%3AIN%3AWave+and+Particle+in+Molecular+Interference+Lithography%7C-%7Ceprint_status%3Aeprint_status%3AANY%3AEQ%3Aarchive%7Cmetadata_visibility%3Ametadata_visibility%3AANY%3AEQ%3Ashow&amp;output=MapPlot&amp;_action_export_redir=1" type="text/html" title="Google Maps" />
+    <link rel="alternate" href="?cache=&amp;exp=0%7C1%7Ctitle%2Fcontributors_name%2F-date%7Carchive%7C-%7Ctitle%3Atitle%3AALL%3AIN%3AWave+and+Particle+in+Molecular+Interference+Lithography%7C-%7Ceprint_status%3Aeprint_status%3AANY%3AEQ%3Aarchive%7Cmetadata_visibility%3Ametadata_visibility%3AANY%3AEQ%3Ashow&amp;output=RDFXML&amp;_action_export_redir=1" type="application/rdf+xml" title="RDF+XML" />
+    <link rel="alternate" href="?cache=&amp;exp=0%7C1%7Ctitle%2Fcontributors_name%2F-date%7Carchive%7C-%7Ctitle%3Atitle%3AALL%3AIN%3AWave+and+Particle+in+Molecular+Interference+Lithography%7C-%7Ceprint_status%3Aeprint_status%3AANY%3AEQ%3Aarchive%7Cmetadata_visibility%3Ametadata_visibility%3AANY%3AEQ%3Ashow&amp;output=BibTeX&amp;_action_export_redir=1" type="text/plain" title="BibTeX" />
+    <link rel="alternate" href="?cache=&amp;exp=0%7C1%7Ctitle%2Fcontributors_name%2F-date%7Carchive%7C-%7Ctitle%3Atitle%3AALL%3AIN%3AWave+and+Particle+in+Molecular+Interference+Lithography%7C-%7Ceprint_status%3Aeprint_status%3AANY%3AEQ%3Aarchive%7Cmetadata_visibility%3Ametadata_visibility%3AANY%3AEQ%3Ashow&amp;output=RSS&amp;_action_export_redir=1" type="application/rss+xml" title="RSS 1.0" />
+    <link rel="alternate" href="?cache=&amp;exp=0%7C1%7Ctitle%2Fcontributors_name%2F-date%7Carchive%7C-%7Ctitle%3Atitle%3AALL%3AIN%3AWave+and+Particle+in+Molecular+Interference+Lithography%7C-%7Ceprint_status%3Aeprint_status%3AANY%3AEQ%3Aarchive%7Cmetadata_visibility%3Ametadata_visibility%3AANY%3AEQ%3Ashow&amp;output=Excel&amp;_action_export_redir=1" type="application/vnd.ms-excel" title="Excel" />
+    <link rel="alternate" href="?cache=&amp;exp=0%7C1%7Ctitle%2Fcontributors_name%2F-date%7Carchive%7C-%7Ctitle%3Atitle%3AALL%3AIN%3AWave+and+Particle+in+Molecular+Interference+Lithography%7C-%7Ceprint_status%3Aeprint_status%3AANY%3AEQ%3Aarchive%7Cmetadata_visibility%3Ametadata_visibility%3AANY%3AEQ%3Ashow&amp;output=RDFNT&amp;_action_export_redir=1" type="text/plain" title="RDF+N-Triples" />
+    <link rel="alternate" href="?cache=&amp;exp=0%7C1%7Ctitle%2Fcontributors_name%2F-date%7Carchive%7C-%7Ctitle%3Atitle%3AALL%3AIN%3AWave+and+Particle+in+Molecular+Interference+Lithography%7C-%7Ceprint_status%3Aeprint_status%3AANY%3AEQ%3Aarchive%7Cmetadata_visibility%3Ametadata_visibility%3AANY%3AEQ%3Ashow&amp;output=PubTypeGrid&amp;_action_export_redir=1" type="text/html; charset=utf-8" title="Total by Types" />
+    <link rel="alternate" href="?cache=&amp;exp=0%7C1%7Ctitle%2Fcontributors_name%2F-date%7Carchive%7C-%7Ctitle%3Atitle%3AALL%3AIN%3AWave+and+Particle+in+Molecular+Interference+Lithography%7C-%7Ceprint_status%3Aeprint_status%3AANY%3AEQ%3Aarchive%7Cmetadata_visibility%3Ametadata_visibility%3AANY%3AEQ%3Ashow&amp;output=JSON&amp;_action_export_redir=1" type="application/json; charset=utf-8" title="JSON" />
+    <link rel="alternate" href="?cache=&amp;exp=0%7C1%7Ctitle%2Fcontributors_name%2F-date%7Carchive%7C-%7Ctitle%3Atitle%3AALL%3AIN%3AWave+and+Particle+in+Molecular+Interference+Lithography%7C-%7Ceprint_status%3Aeprint_status%3AANY%3AEQ%3Aarchive%7Cmetadata_visibility%3Ametadata_visibility%3AANY%3AEQ%3Ashow&amp;output=DC&amp;_action_export_redir=1" type="text/plain; charset=utf-8" title="Dublin Core" />
+    <link rel="alternate" href="?cache=&amp;exp=0%7C1%7Ctitle%2Fcontributors_name%2F-date%7Carchive%7C-%7Ctitle%3Atitle%3AALL%3AIN%3AWave+and+Particle+in+Molecular+Interference+Lithography%7C-%7Ceprint_status%3Aeprint_status%3AANY%3AEQ%3Aarchive%7Cmetadata_visibility%3Ametadata_visibility%3AANY%3AEQ%3Ashow&amp;output=DC_Ext&amp;_action_export_redir=1" type="text/plain; charset=utf-8" title="Dublin Core" />
+    <link rel="alternate" href="?cache=&amp;exp=0%7C1%7Ctitle%2Fcontributors_name%2F-date%7Carchive%7C-%7Ctitle%3Atitle%3AALL%3AIN%3AWave+and+Particle+in+Molecular+Interference+Lithography%7C-%7Ceprint_status%3Aeprint_status%3AANY%3AEQ%3Aarchive%7Cmetadata_visibility%3Ametadata_visibility%3AANY%3AEQ%3Ashow&amp;output=DocumentGrid&amp;_action_export_redir=1" type="text/html" title="Document Grid" />
+    <link rel="alternate" href="?cache=&amp;exp=0%7C1%7Ctitle%2Fcontributors_name%2F-date%7Carchive%7C-%7Ctitle%3Atitle%3AALL%3AIN%3AWave+and+Particle+in+Molecular+Interference+Lithography%7C-%7Ceprint_status%3Aeprint_status%3AANY%3AEQ%3Aarchive%7Cmetadata_visibility%3Ametadata_visibility%3AANY%3AEQ%3Ashow&amp;output=Atom&amp;_action_export_redir=1" type="application/atom+xml;charset=utf-8" title="Atom" />
+    <link rel="alternate" href="?cache=&amp;exp=0%7C1%7Ctitle%2Fcontributors_name%2F-date%7Carchive%7C-%7Ctitle%3Atitle%3AALL%3AIN%3AWave+and+Particle+in+Molecular+Interference+Lithography%7C-%7Ceprint_status%3Aeprint_status%3AANY%3AEQ%3Aarchive%7Cmetadata_visibility%3Ametadata_visibility%3AANY%3AEQ%3Ashow&amp;output=Refer&amp;_action_export_redir=1" type="text/plain" title="Refer" />
+    <link rel="alternate" href="?cache=&amp;exp=0%7C1%7Ctitle%2Fcontributors_name%2F-date%7Carchive%7C-%7Ctitle%3Atitle%3AALL%3AIN%3AWave+and+Particle+in+Molecular+Interference+Lithography%7C-%7Ceprint_status%3Aeprint_status%3AANY%3AEQ%3Aarchive%7Cmetadata_visibility%3Ametadata_visibility%3AANY%3AEQ%3Ashow&amp;output=Ids&amp;_action_export_redir=1" type="text/plain; charset=utf-8" title="Object IDs" />
+    <link rel="alternate" href="?cache=&amp;exp=0%7C1%7Ctitle%2Fcontributors_name%2F-date%7Carchive%7C-%7Ctitle%3Atitle%3AALL%3AIN%3AWave+and+Particle+in+Molecular+Interference+Lithography%7C-%7Ceprint_status%3Aeprint_status%3AANY%3AEQ%3Aarchive%7Cmetadata_visibility%3Ametadata_visibility%3AANY%3AEQ%3Ashow&amp;output=METS&amp;_action_export_redir=1" type="text/xml; charset=utf-8" title="METS" />
+    <link rel="alternate" href="?cache=&amp;exp=0%7C1%7Ctitle%2Fcontributors_name%2F-date%7Carchive%7C-%7Ctitle%3Atitle%3AALL%3AIN%3AWave+and+Particle+in+Molecular+Interference+Lithography%7C-%7Ceprint_status%3Aeprint_status%3AANY%3AEQ%3Aarchive%7Cmetadata_visibility%3Ametadata_visibility%3AANY%3AEQ%3Ashow&amp;output=BatchEdit&amp;_action_export_redir=1" type="text/html; charset=utf-8" title="Batch Edit" />
+    <link rel="alternate" href="?cache=&amp;exp=0%7C1%7Ctitle%2Fcontributors_name%2F-date%7Carchive%7C-%7Ctitle%3Atitle%3AALL%3AIN%3AWave+and+Particle+in+Molecular+Interference+Lithography%7C-%7Ceprint_status%3Aeprint_status%3AANY%3AEQ%3Aarchive%7Cmetadata_visibility%3Ametadata_visibility%3AANY%3AEQ%3Ashow&amp;output=PubReport&amp;_action_export_redir=1" type="text/html; charset=utf-8" title="HTML Table" />
+    <link rel="alternate" href="?cache=&amp;exp=0%7C1%7Ctitle%2Fcontributors_name%2F-date%7Carchive%7C-%7Ctitle%3Atitle%3AALL%3AIN%3AWave+and+Particle+in+Molecular+Interference+Lithography%7C-%7Ceprint_status%3Aeprint_status%3AANY%3AEQ%3Aarchive%7Cmetadata_visibility%3Ametadata_visibility%3AANY%3AEQ%3Ashow&amp;output=HTML&amp;_action_export_redir=1" type="text/html; charset=utf-8" title="HTML Citation" />
+    <link rel="alternate" href="?cache=&amp;exp=0%7C1%7Ctitle%2Fcontributors_name%2F-date%7Carchive%7C-%7Ctitle%3Atitle%3AALL%3AIN%3AWave+and+Particle+in+Molecular+Interference+Lithography%7C-%7Ceprint_status%3Aeprint_status%3AANY%3AEQ%3Aarchive%7Cmetadata_visibility%3Ametadata_visibility%3AANY%3AEQ%3Ashow&amp;output=Text&amp;_action_export_redir=1" type="text/plain; charset=utf-8" title="ASCII Citation" />
+    <link rel="alternate" href="?cache=&amp;exp=0%7C1%7Ctitle%2Fcontributors_name%2F-date%7Carchive%7C-%7Ctitle%3Atitle%3AALL%3AIN%3AWave+and+Particle+in+Molecular+Interference+Lithography%7C-%7Ceprint_status%3Aeprint_status%3AANY%3AEQ%3Aarchive%7Cmetadata_visibility%3Ametadata_visibility%3AANY%3AEQ%3Ashow&amp;output=RSS2&amp;_action_export_redir=1" type="application/rss+xml" title="RSS 2.0" />
+    <link rel="alternate" href="?cache=&amp;exp=0%7C1%7Ctitle%2Fcontributors_name%2F-date%7Carchive%7C-%7Ctitle%3Atitle%3AALL%3AIN%3AWave+and+Particle+in+Molecular+Interference+Lithography%7C-%7Ceprint_status%3Aeprint_status%3AANY%3AEQ%3Aarchive%7Cmetadata_visibility%3Ametadata_visibility%3AANY%3AEQ%3Ashow&amp;output=MultilineCSV&amp;_action_export_redir=1" type="text/csv" title="Multiline CSV" />
+    <link rel="alternate" href="?cache=&amp;exp=0%7C1%7Ctitle%2Fcontributors_name%2F-date%7Carchive%7C-%7Ctitle%3Atitle%3AALL%3AIN%3AWave+and+Particle+in+Molecular+Interference+Lithography%7C-%7Ceprint_status%3Aeprint_status%3AANY%3AEQ%3Aarchive%7Cmetadata_visibility%3Ametadata_visibility%3AANY%3AEQ%3Ashow&amp;output=ContextObject&amp;_action_export_redir=1" type="text/xml; charset=utf-8" title="OpenURL ContextObject" />
+    <link rel="alternate" href="?cache=&amp;exp=0%7C1%7Ctitle%2Fcontributors_name%2F-date%7Carchive%7C-%7Ctitle%3Atitle%3AALL%3AIN%3AWave+and+Particle+in+Molecular+Interference+Lithography%7C-%7Ceprint_status%3Aeprint_status%3AANY%3AEQ%3Aarchive%7Cmetadata_visibility%3Ametadata_visibility%3AANY%3AEQ%3Ashow&amp;output=EndNote&amp;_action_export_redir=1" type="text/enw" title="EndNote" />
+    <link rel="alternate" href="?cache=&amp;exp=0%7C1%7Ctitle%2Fcontributors_name%2F-date%7Carchive%7C-%7Ctitle%3Atitle%3AALL%3AIN%3AWave+and+Particle+in+Molecular+Interference+Lithography%7C-%7Ceprint_status%3Aeprint_status%3AANY%3AEQ%3Aarchive%7Cmetadata_visibility%3Ametadata_visibility%3AANY%3AEQ%3Ashow&amp;output=OldXML&amp;_action_export_redir=1" type="text/xml" title="XML (eprints 2.3 style)" />
+    <link rel="alternate" href="?cache=&amp;exp=0%7C1%7Ctitle%2Fcontributors_name%2F-date%7Carchive%7C-%7Ctitle%3Atitle%3AALL%3AIN%3AWave+and+Particle+in+Molecular+Interference+Lithography%7C-%7Ceprint_status%3Aeprint_status%3AANY%3AEQ%3Aarchive%7Cmetadata_visibility%3Ametadata_visibility%3AANY%3AEQ%3Ashow&amp;output=AddToShelf&amp;_action_export_redir=1" type="text/html; charset=utf-8" title="Add To Shelf..." />
+    <link rel="alternate" href="?cache=&amp;exp=0%7C1%7Ctitle%2Fcontributors_name%2F-date%7Carchive%7C-%7Ctitle%3Atitle%3AALL%3AIN%3AWave+and+Particle+in+Molecular+Interference+Lithography%7C-%7Ceprint_status%3Aeprint_status%3AANY%3AEQ%3Aarchive%7Cmetadata_visibility%3Ametadata_visibility%3AANY%3AEQ%3Ashow&amp;output=XML&amp;_action_export_redir=1" type="text/xml" title="EP3 XML" />
+    <link rel="alternate" href="?cache=&amp;exp=0%7C1%7Ctitle%2Fcontributors_name%2F-date%7Carchive%7C-%7Ctitle%3Atitle%3AALL%3AIN%3AWave+and+Particle+in+Molecular+Interference+Lithography%7C-%7Ceprint_status%3Aeprint_status%3AANY%3AEQ%3Aarchive%7Cmetadata_visibility%3Ametadata_visibility%3AANY%3AEQ%3Ashow&amp;output=CerifXML&amp;_action_export_redir=1" type="application/zip" title="Cerif XML 2008" />
+    <link rel="alternate" href="?cache=&amp;exp=0%7C1%7Ctitle%2Fcontributors_name%2F-date%7Carchive%7C-%7Ctitle%3Atitle%3AALL%3AIN%3AWave+and+Particle+in+Molecular+Interference+Lithography%7C-%7Ceprint_status%3Aeprint_status%3AANY%3AEQ%3Aarchive%7Cmetadata_visibility%3Ametadata_visibility%3AANY%3AEQ%3Ashow&amp;output=RIS&amp;_action_export_redir=1" type="text/plain" title="Reference Manager" />
+    <link rel="alternate" href="?cache=&amp;exp=0%7C1%7Ctitle%2Fcontributors_name%2F-date%7Carchive%7C-%7Ctitle%3Atitle%3AALL%3AIN%3AWave+and+Particle+in+Molecular+Interference+Lithography%7C-%7Ceprint_status%3Aeprint_status%3AANY%3AEQ%3Aarchive%7Cmetadata_visibility%3Ametadata_visibility%3AANY%3AEQ%3Ashow&amp;output=XMLFiles&amp;_action_export_redir=1" type="application/vnd.eprints.data+xml; charset=utf-8; files=&quot;base64&quot;" title="EP3 XML with Files Embeded" />
+    <link rel="alternate" href="?cache=&amp;exp=0%7C1%7Ctitle%2Fcontributors_name%2F-date%7Carchive%7C-%7Ctitle%3Atitle%3AALL%3AIN%3AWave+and+Particle+in+Molecular+Interference+Lithography%7C-%7Ceprint_status%3Aeprint_status%3AANY%3AEQ%3Aarchive%7Cmetadata_visibility%3Ametadata_visibility%3AANY%3AEQ%3Ashow&amp;output=RDFN3&amp;_action_export_redir=1" type="text/n3" title="RDF+N3" />
+    <link rel="alternate" href="?cache=&amp;exp=0%7C1%7Ctitle%2Fcontributors_name%2F-date%7Carchive%7C-%7Ctitle%3Atitle%3AALL%3AIN%3AWave+and+Particle+in+Molecular+Interference+Lithography%7C-%7Ceprint_status%3Aeprint_status%3AANY%3AEQ%3Aarchive%7Cmetadata_visibility%3Ametadata_visibility%3AANY%3AEQ%3Ashow&amp;output=HTMLPlus&amp;_action_export_redir=1" type="text/html; charset=utf-8" title="HTML Citation" />
+    <link rel="alternate" href="?cache=&amp;exp=0%7C1%7Ctitle%2Fcontributors_name%2F-date%7Carchive%7C-%7Ctitle%3Atitle%3AALL%3AIN%3AWave+and+Particle+in+Molecular+Interference+Lithography%7C-%7Ceprint_status%3Aeprint_status%3AANY%3AEQ%3Aarchive%7Cmetadata_visibility%3Ametadata_visibility%3AANY%3AEQ%3Ashow&amp;output=HTMLIcons&amp;_action_export_redir=1" type="text/html" title="HTML Icons" />
+  </head>
+  <body>
+    
+    <div id="container">
+      <div id="nav">
+        <ul>
+          <li>
+            <form method="get" accept-charset="utf-8" action="http://eprints.soton.ac.uk/cgi/search">
+              <input size="20" type="text" name="q" placeholder="Search ePrints Soton" />
+              <button type="submit" name="_action_search" title="Search"></button>
+              <input type="hidden" name="_action_search" value="Search" />
+              <input type="hidden" name="_order" value="bytitle" />
+              <input type="hidden" name="basic_srchtype" value="ALL" />
+              <input type="hidden" name="_satisfyall" value="ALL" />
+              <div style="text-align: right"><a href="http://eprints.soton.ac.uk/cgi/search/advanced">Advanced Search</a></div>
+            </form>
+          </li>
+          <li><a href="http://www.southampton.ac.uk/" title="University of Southampton Home Page">University Home</a></li>
+          <li class="active home"><a href="http://eprints.soton.ac.uk" title="ePrints Soton Home Page">ePrints Soton</a>
+            <ul>
+<li><a href="http://library.soton.ac.uk/openaccess/eprints">Policies</a></li>
+<li><a href="http://eprints.soton.ac.uk/cgi/latest">Latest Additions</a></li>
+<li><a href="http://eprints.soton.ac.uk/stats.html">Download Statistics</a></li>
+<li><a href="http://eprints.soton.ac.uk/view/year/">Browse by Year</a></li>
+<li><a href="http://eprints.soton.ac.uk/view/subjects/">Browse by Subject</a></li>
+<li><a href="http://eprints.soton.ac.uk/view/divisions/">Browse by School</a></li>
+            </ul>
+          </li>
+        </ul>
+	<!-- IE 9 in IE 7 compatibility mode will continue flooding background colour downwards from the <ul> unless we put a border on the bottom edge, even if that border is on the parent element. The horror, the horror ... -->
+	<div style="border-bottom: 1px solid #fff">
+        <ul class="ep_tm_key_tools"><li><a href="http://eprints.soton.ac.uk/cgi/users/home">Login</a></li></ul>
+	</div>
+        <table style="margin-left: 30px">
+        <tr>
+        <td><a href="/cgi/latest_tool?output=RSS"><img src="/images/feed-icon-14x14.png" border="0" alt="" /></a></td>
+        <td><a href="/cgi/latest_tool?output=RSS" style="text-decoration: none">RSS 1.0</a></td>
+        </tr>
+        <tr>
+        <td><a href="/cgi/latest_tool?output=RSS2"><img src="/images/feed-icon-14x14.png" border="0" alt="" /></a></td>
+        <td><a href="/cgi/latest_tool?output=RSS2" style="text-decoration: none">RSS 2.0</a></td>
+        </tr>
+        <tr>
+        <td><a href="/cgi/latest_tool?output=Atom"><img src="/images/feed-icon-14x14.png" border="0" alt="" /></a></td>
+        <td><a href="/cgi/latest_tool?output=Atom" style="text-decoration: none">Atom</a></td>
+        </tr>
+        </table>
+
+      </div>
+      <div id="header">
+        <a href="http://www.southampton.ac.uk/" title="University of Southampton home page"><img src="/images/bg_logo_small.png" alt="University of Southampton logo" /></a>
+      </div>
+      <div id="content">
+        
+        <h1 class="ep_tm_pagetitle">Title matches "Wave and Particle in Molecular Interference Lithography" (Ignoring: "in", "and")</h1>
+        <div id="ep_messages"></div><div class="ep_search_controls"><div>Displaying results <span class="ep_search_number">1</span> to <span class="ep_search_number">1</span> of <span class="ep_search_number">1</span>.<br /><span class="ep_search_control"><a href="/cgi/search/archive/advanced?cache=28107281&amp;exp=0%7C1%7Ctitle%2Fcontributors_name%2F-date%7Carchive%7C-%7Ctitle%3Atitle%3AALL%3AIN%3AWave+and+Particle+in+Molecular+Interference+Lithography%7C-%7Ceprint_status%3Aeprint_status%3AANY%3AEQ%3Aarchive%7Cmetadata_visibility%3Ametadata_visibility%3AANY%3AEQ%3Ashow&amp;screen=Search&amp;dataset=archive&amp;order=title%2Fcontributors_name%2F-date&amp;_action_update=1">Refine search</a></span> | <span class="ep_search_control"><a href="/cgi/search/archive/advanced?screen=Search">New search</a></span><div class="ep_search_reorder"><form method="get" accept-charset="utf-8" action="/cgi/search/archive/advanced">Order the results: <select name="order" id="order"><option value="date/contributors_name/title">by year (oldest first)</option><option value="-date/contributors_name/title">by year (most recent first)</option><option value="-wos_impact/-date/contributors_name/title">by ISI citation count</option><option value="contributors_name/-date/title">by author's name</option><option value="-irstats2_downloads/-date/title">By downloads</option><option value="title/contributors_name/-date" selected="selected">by title</option></select><input value="Reorder" name="_action_search" type="submit" class="ep_form_action_button" /><input name="screen" id="screen" value="Search" type="hidden" /><input name="dataset" id="dataset" value="archive" type="hidden" /><input name="exp" id="exp" value="0|1|title/contributors_name/-date|archive|-|title:title:ALL:IN:Wave and Particle in Molecular Interference Lithography|-|eprint_status:eprint_status:ANY:EQ:archive|metadata_visibility:metadata_visibility:ANY:EQ:show" type="hidden" /></form></div></div></div><div class="ep_search_export"><form method="get" accept-charset="utf-8" action="/cgi/search/archive/advanced">
+<table width="100%"><tr>
+  <td align="left">Export 1 results as <select name="output"><option value="Text">ASCII Citation</option><option value="AllURLs">All URLS</option><option value="BibTeX">BibTeX</option><option value="CerifXML">Cerif XML 2008</option><option value="DocumentGrid">Document Grid</option><option value="DC_Ext">Dublin Core</option><option value="XML">EP3 XML</option><option value="XMLFiles">EP3 XML with Files Embeded</option><option value="EndNote">EndNote</option><option value="Excel">Excel</option><option value="MapPlot">Google Maps</option><option value="HTMLPlus">HTML Citation</option><option value="HTMLIcons">HTML Icons</option><option value="PubReport">HTML Table</option><option value="JSON">JSON</option><option value="METS">METS</option><option value="MultilineCSV">Multiline CSV</option><option value="Ids">Object IDs</option><option value="ContextObject">OpenURL ContextObject</option><option value="RDFNT">RDF+N-Triples</option><option value="RDFN3">RDF+N3</option><option value="RDFXML">RDF+XML</option><option value="Refer">Refer</option><option value="RIS">Reference Manager</option><option value="PubTypeGrid">Total by Types</option><option value="OldXML">XML (eprints 2.3 style)</option></select><input value="Export" name="_action_export_redir" type="submit" class="ep_form_action_button" /><input name="screen" id="screen" value="Search" type="hidden" /><input name="dataset" id="dataset" value="archive" type="hidden" /><input name="order" id="order" value="title/contributors_name/-date" type="hidden" /><input name="cache" id="cache" value="28107281" type="hidden" /><input name="exp" id="exp" value="0|1|title/contributors_name/-date|archive|-|title:title:ALL:IN:Wave and Particle in Molecular Interference Lithography|-|eprint_status:eprint_status:ANY:EQ:archive|metadata_visibility:metadata_visibility:ANY:EQ:show" type="hidden" /></td>
+  <td align="right"> <span class="ep_search_feed"><a href="/cgi/search/archive/advanced/export_eps_RSS.rss?screen=Search&amp;dataset=archive&amp;_action_export=1&amp;output=RSS&amp;exp=0%7C1%7Ctitle%2Fcontributors_name%2F-date%7Carchive%7C-%7Ctitle%3Atitle%3AALL%3AIN%3AWave+and+Particle+in+Molecular+Interference+Lithography%7C-%7Ceprint_status%3Aeprint_status%3AANY%3AEQ%3Aarchive%7Cmetadata_visibility%3Ametadata_visibility%3AANY%3AEQ%3Ashow&amp;n="><img src="/style/images/feed-icon-14x14.png" alt="[feed]" border="0" /></a> <a href="/cgi/search/archive/advanced/export_eps_RSS.rss?screen=Search&amp;dataset=archive&amp;_action_export=1&amp;output=RSS&amp;exp=0%7C1%7Ctitle%2Fcontributors_name%2F-date%7Carchive%7C-%7Ctitle%3Atitle%3AALL%3AIN%3AWave+and+Particle+in+Molecular+Interference+Lithography%7C-%7Ceprint_status%3Aeprint_status%3AANY%3AEQ%3Aarchive%7Cmetadata_visibility%3Ametadata_visibility%3AANY%3AEQ%3Ashow&amp;n=">RSS 1.0</a></span> <span class="ep_search_feed"><a href="/cgi/search/archive/advanced/export_eps_Atom.xml?screen=Search&amp;dataset=archive&amp;_action_export=1&amp;output=Atom&amp;exp=0%7C1%7Ctitle%2Fcontributors_name%2F-date%7Carchive%7C-%7Ctitle%3Atitle%3AALL%3AIN%3AWave+and+Particle+in+Molecular+Interference+Lithography%7C-%7Ceprint_status%3Aeprint_status%3AANY%3AEQ%3Aarchive%7Cmetadata_visibility%3Ametadata_visibility%3AANY%3AEQ%3Ashow&amp;n="><img src="/style/images/feed-icon-14x14.png" alt="[feed]" border="0" /></a> <a href="/cgi/search/archive/advanced/export_eps_Atom.xml?screen=Search&amp;dataset=archive&amp;_action_export=1&amp;output=Atom&amp;exp=0%7C1%7Ctitle%2Fcontributors_name%2F-date%7Carchive%7C-%7Ctitle%3Atitle%3AALL%3AIN%3AWave+and+Particle+in+Molecular+Interference+Lithography%7C-%7Ceprint_status%3Aeprint_status%3AANY%3AEQ%3Aarchive%7Cmetadata_visibility%3Ametadata_visibility%3AANY%3AEQ%3Ashow&amp;n=">Atom</a></span> <span class="ep_search_feed"><a href="/cgi/search/archive/advanced/export_eps_RSS2.xml?screen=Search&amp;dataset=archive&amp;_action_export=1&amp;output=RSS2&amp;exp=0%7C1%7Ctitle%2Fcontributors_name%2F-date%7Carchive%7C-%7Ctitle%3Atitle%3AALL%3AIN%3AWave+and+Particle+in+Molecular+Interference+Lithography%7C-%7Ceprint_status%3Aeprint_status%3AANY%3AEQ%3Aarchive%7Cmetadata_visibility%3Ametadata_visibility%3AANY%3AEQ%3Ashow&amp;n="><img src="/style/images/feed-icon-14x14.png" alt="[feed]" border="0" /></a> <a href="/cgi/search/archive/advanced/export_eps_RSS2.xml?screen=Search&amp;dataset=archive&amp;_action_export=1&amp;output=RSS2&amp;exp=0%7C1%7Ctitle%2Fcontributors_name%2F-date%7Carchive%7C-%7Ctitle%3Atitle%3AALL%3AIN%3AWave+and+Particle+in+Molecular+Interference+Lithography%7C-%7Ceprint_status%3Aeprint_status%3AANY%3AEQ%3Aarchive%7Cmetadata_visibility%3Ametadata_visibility%3AANY%3AEQ%3Ashow&amp;n=">RSS 2.0</a></span></td>
+</tr>
+<tr>
+  <td align="left" colspan="2">
+     <span class="ep_search_tool"><a href="/cgi/search/archive/advanced/export_eps_BatchEdit.html?screen=Search&amp;dataset=archive&amp;_action_export=1&amp;output=BatchEdit&amp;exp=0%7C1%7Ctitle%2Fcontributors_name%2F-date%7Carchive%7C-%7Ctitle%3Atitle%3AALL%3AIN%3AWave+and+Particle+in+Molecular+Interference+Lithography%7C-%7Ceprint_status%3Aeprint_status%3AANY%3AEQ%3Aarchive%7Cmetadata_visibility%3Ametadata_visibility%3AANY%3AEQ%3Ashow&amp;n="><img src="/style/images/tool-icon.png" alt="[tool]" border="0" /></a> <a href="/cgi/search/archive/advanced/export_eps_BatchEdit.html?screen=Search&amp;dataset=archive&amp;_action_export=1&amp;output=BatchEdit&amp;exp=0%7C1%7Ctitle%2Fcontributors_name%2F-date%7Carchive%7C-%7Ctitle%3Atitle%3AALL%3AIN%3AWave+and+Particle+in+Molecular+Interference+Lithography%7C-%7Ceprint_status%3Aeprint_status%3AANY%3AEQ%3Aarchive%7Cmetadata_visibility%3Ametadata_visibility%3AANY%3AEQ%3Ashow&amp;n=">Batch Edit</a></span> <div id="shelves" class="ep_only_js"></div><script type="text/javascript">
+// <![CDATA[
+                var EPJS_shelves_object;
+                document.observe("dom:loaded",function(){
+                        EPJS_shelves_object = new EPJS_Shelves_Search();
+                });
+// ]]></script>
+  </td>
+</tr>
+</table>
+
+</form></div><div class="ep_search_results"><table class="ep_paginate_list">
+  <tr class="ep_search_result">
+    <td style="padding-left: 0.5em;vertical-align:top;">1.</td>
+    <td style="padding-left: 0.5em;vertical-align:top;">
+    <span style="padding-right: 10px; width:180px; vertical-align:top; float:right; text-align:right">
+          
+    </span>      
+<span class="citation">
+
+
+    <span class="creators"> 
+      <span class="person_name">Juffmann, Thomas</span>, <span class="person_name">Truppe, Stefan</span>, <span class="person_name">Geyer, Philipp</span>, <span class="person_name">Major, Andr¨¢s G.</span>, <span class="person_name">Deachapunya, Sarayut</span>, <span class="person_name">Ulbricht, Hendrik</span> and <span class="person_name">Arndt, Markus</span></span>
+
+	
+
+
+     <span class="date"> (2009) </span> 
+    <span class="title"><a href="http://eprints.soton.ac.uk/144267/">Wave and particle in molecular interference lithography.</a></span>
+
+    <span class="publication"><em>Physical Review Letters</em></span>, <span class="volume">103</span>, <span class="number">(26)</span>, <span class="pagerange">p.263601</span>. <span class="doi"> (<a href="http://dx.doi.org/10.1103/PhysRevLett.103.263601">doi:10.1103/PhysRevLett.103.263601</a>).</span>  
+    
+  
+</span>
+
+       Item not available on this server.
+      
+      
+    </td>
+
+    <td valign="top">
+      <div class="shelves_item" data-eprintid="144267"></div>
+    </td>
+  </tr>
+</table></div><div class="ep_search_controls_bottom"><div>Displaying results <span class="ep_search_number">1</span> to <span class="ep_search_number">1</span> of <span class="ep_search_number">1</span>.<br /><span class="ep_search_control"><a href="/cgi/search/archive/advanced?cache=28107281&amp;exp=0%7C1%7Ctitle%2Fcontributors_name%2F-date%7Carchive%7C-%7Ctitle%3Atitle%3AALL%3AIN%3AWave+and+Particle+in+Molecular+Interference+Lithography%7C-%7Ceprint_status%3Aeprint_status%3AANY%3AEQ%3Aarchive%7Cmetadata_visibility%3Ametadata_visibility%3AANY%3AEQ%3Ashow&amp;screen=Search&amp;dataset=archive&amp;order=title%2Fcontributors_name%2F-date&amp;_action_update=1">Refine search</a></span> | <span class="ep_search_control"><a href="/cgi/search/archive/advanced?screen=Search">New search</a></span><div class="ep_search_reorder"><form method="get" accept-charset="utf-8" action="/cgi/search/archive/advanced">Order the results: <select name="order" id="order"><option value="date/contributors_name/title">by year (oldest first)</option><option value="-date/contributors_name/title">by year (most recent first)</option><option value="-wos_impact/-date/contributors_name/title">by ISI citation count</option><option value="contributors_name/-date/title">by author's name</option><option value="-irstats2_downloads/-date/title">By downloads</option><option value="title/contributors_name/-date" selected="selected">by title</option></select><input value="Reorder" name="_action_search" type="submit" class="ep_form_action_button" /><input name="screen" id="screen" value="Search" type="hidden" /><input name="dataset" id="dataset" value="archive" type="hidden" /><input name="exp" id="exp" value="0|1|title/contributors_name/-date|archive|-|title:title:ALL:IN:Wave and Particle in Molecular Interference Lithography|-|eprint_status:eprint_status:ANY:EQ:archive|metadata_visibility:metadata_visibility:ANY:EQ:show" type="hidden" /></form></div></div></div>
+      </div>
+
+<div class="ep_tm_footer ep_noprint" style="clear:both">
+    <div style="float: right; margin-left: 1em"><a href="http://eprints.org/software/" title="ePrints Soton has been built using EPrints software"><img alt="EPrints Logo" src="/images/eprintslogo.gif" border="0" /></a></div>
+
+    Contact ePrints Soton: <a href="mailto:eprints@soton.ac.uk">eprints@soton.ac.uk</a><br />
+    ePrints Soton supports <a href="http://www.openarchives.org"><abbr title="Open Archives Protocol for Metadata Harvesting v2.0">OAI 2.0</abbr></a> with a base URL of http://eprints.soton.ac.uk/cgi/oai2
+  <br clear="all" />
+</div>
+
+<!-- end of container div -->
+</div>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-21322402-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+  </body>
+</html>
