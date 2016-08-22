@@ -3,3 +3,5 @@ E:\yan\WebOfSciSearcher\Test\bin\Debug\Test.pdb
 E:\yan\WebOfSciSearcher\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
 E:\yan\WebOfSciSearcher\Test\obj\Debug\Test.exe
 E:\yan\WebOfSciSearcher\Test\obj\Debug\Test.pdb
+E:\yan\WebOfSciSearcher\WOSSearcher\Test\obj\Debug\Test.exe
+E:\yan\WebOfSciSearcher\WOSSearcher\Test\obj\Debug\Test.pdb
